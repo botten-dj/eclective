@@ -15,6 +15,6 @@ Have fun and B ECLECTIC!!
 
 ## Latest mix
 
-### Who Drank My Beer? 18-APR=2020
+### Who Drank My Beer? 18-APR-2020
 
 
