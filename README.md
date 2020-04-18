@@ -17,6 +17,8 @@ Have fun and B ECLECTIC!!
 
 ### Who Drank My Beer? 18-APR-2020
 
+A challeging remix of an old jukejoint classic by Dave Bartholomew.
+
 [Download MP3](who-drank-my-beer%20Project/who-drank-my-beer.mp3)
 
 
