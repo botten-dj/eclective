@@ -5,7 +5,7 @@ The Eclectic Collective sonic mix challenge. Do one remix of a track randomly pi
 
 Set yourself a music mix challenge each week and share your results here. If you're a friend of mine, your music collection is probably way eclectic. I'm talking super-eclectic. Superclectic.
 
-- Select a track at random. (Here's a script I use on Windows file systems - Coming soon)
+- Select a track at random. (Here's a [script](pick-file.bat) I use on Windows file systems)
 - Make a remix of the track using your favorite Digital Audio Workstation (DAW) - really make it your own!
 - Commit your results and raw files here
 
