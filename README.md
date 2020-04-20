@@ -13,7 +13,7 @@ As we progress we will have special events and challenges.
 
 Have fun and B ECLECTIC!!
 
-## Latest mix
+## Latest remix
 
 ### Who Drank My Beer? 18-APR-2020
 
