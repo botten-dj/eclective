@@ -15,6 +15,12 @@ Have fun and B ECLECTIC!!
 
 ## Latest remix
 
+### Devil Rebop 5-MAY-2020
+
+It's always sketchy remixing a favourite band but you can't go against the challenge. Here's Electric Six with Devil Nights. See if you can pick out a smattering of Holger Czukay's Hey Baba Rebop.
+
+[Download MP3](devil-rebop%20Project/devil-rebop.mp3)
+
 ### Who Drank My Beer? 18-APR-2020
 
 A challenging remix of an old jukejoint classic by Dave Bartholomew.
