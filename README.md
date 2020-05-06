@@ -21,12 +21,6 @@ It's always sketchy remixing a favourite band but you can't go against the chall
 
 [Download MP3](devil-rebop%20Project/devil-rebop.mp3)
 
-### Who Drank My Beer? 18-APR-2020
-
-A challenging remix of an old jukejoint classic by Dave Bartholomew.
-
-[Download MP3](who-drank-my-beer%20Project/who-drank-my-beer.mp3)
-
 ### The Face 21-APR-2020
 
 Time for a remix of a lovely ballad from those good ol' boys, Kings of Leon
