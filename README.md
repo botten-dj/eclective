@@ -13,6 +13,7 @@ As we progress we will have special events and challenges.
 
 Have fun and B ECLECTIC!!
 
+<<<<<<< HEAD
 ## Latest remix
 
 ### Devil Rebop 5-MAY-2020
@@ -26,11 +27,20 @@ It's always sketchy remixing a favourite band but you can't go against the chall
 A challenging remix of an old jukejoint classic by Dave Bartholomew.
 
 [Download MP3](who-drank-my-beer%20Project/who-drank-my-beer.mp3)
+=======
+## Latest remixes
+>>>>>>> 4e2ebde88991d96705f5fa296b256e3539065f42
 
 ### The Face 21-APR-2020
 
 Time for a remix of a lovely ballad from those good ol' boys, Kings of Leon
 
 [Download MP3](the-face%20Project/the-face.mp3)
+
+### Who Drank My Beer? 18-APR-2020
+
+A challenging remix of an old jukejoint classic by Dave Bartholomew.
+
+[Download MP3](who-drank-my-beer%20Project/who-drank-my-beer.mp3)
 
 
