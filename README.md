@@ -1,6 +1,10 @@
 # eclective
 The Eclectic Collective sonic mix challenge. Do one remix of a track randomly picked from your eclectic music collection.
 
+## __ANNOUNCEMENT__
+
+Eclective is back!!! I've got new DJ kit so time to get obscure and synthetic again, Stay tuned...
+
 ## How to take part
 
 Set yourself a music mix challenge each week and share your results here. If you're a friend of mine, your music collection is probably way eclectic. I'm talking super-eclectic. Superclectic.
@@ -13,7 +17,7 @@ As we progress we will have special events and challenges.
 
 Have fun and B ECLECTIC!!
 
-## Latest remixes
+## Beta remixes
 
 ### Devil Rebop 5-MAY-2020
 
